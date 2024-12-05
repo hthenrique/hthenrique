@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Henrique Teixeira</h1>
 <h3 align="center">A Android and Back-end developer from Brazil</h3>
 
-- 🔭 I’m currently working on **Avanade**
+- 🔭 I’m currently working on **F1rst Digital Services**
 
 - 🌱 I’m currently learning **Android, Spring and Quarkus**
 
